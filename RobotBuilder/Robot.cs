@@ -3,11 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RobotBuilder.Urzadzenia.Wejscia;
+using RobotBuilder.Urzadzenia.Wyjscia;
 
 namespace RobotBuilder
 {
     class Robot
     {
+        private Kamera kamera;
+        private Mikrofon mikrofon;
+        private Glosnik glosnik;
+        private Lampa lampa;
+
 
         private string _kodSerii;
         private int _nrSerii;
@@ -18,6 +25,11 @@ namespace RobotBuilder
             this._kodSerii = kodSerii;
             this._nrSerii = nrSerii;
             this._wlaczony = false;
+
+            kamera = new Kamera();
+            mikrofon = new Mikrofon();
+            glosnik = new Glosnik();
+            lampa = new Lampa();
         }
 
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RobotBuilder.Urzadzenia.Wyjscia;
 
 namespace RobotBuilder
 {
@@ -15,6 +16,10 @@ namespace RobotBuilder
             Console.WriteLine(robot.Seria);
             robot.Uruchom();
             robot.DajSygnal();
+
+            Lampa lampa = new Lampa();
+            lampa.Uruchom();
+            lampa.Uruchom();
 
             Console.ReadLine();
         }
