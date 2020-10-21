@@ -1,0 +1,7 @@
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\bin\Debug\RobotBuilder.exe.config
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\bin\Debug\RobotBuilder.exe
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\bin\Debug\RobotBuilder.pdb
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.csprojAssemblyReference.cache
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.csproj.CoreCompileInputs.cache
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.exe
+C:\Users\SebastianZiółkowski\source\repos\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.pdb
